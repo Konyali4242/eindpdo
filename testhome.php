@@ -30,23 +30,23 @@ session_start();
     <div class="box-container">
      
         <div class="box">
-            <img src="S" alt="Auto 1">
+            <img src="auto1.jpg" alt="Auto 1">
             <p>Auto beschrijving hier.</p>
-            <a href="#" class="buy-now-btn">Koop nu</a>
+            <a href="login.php" class="buy-now-btn">Koop nu</a>
         </div>
 
        
         <div class="box">
-            <img src="" alt="Auto 2">
+            <img src="auto2.jpg" alt="Auto 2">
             <p>Auto beschrijving hier.</p>
-            <a href="#" class="buy-now-btn">Koop nu</a>
+            <a href="login.php" class="buy-now-btn">Koop nu</a>
         </div>
 
         
         <div class="box">
-            <img src="" alt="Auto 3">
+            <img src="auto3.jpg" alt="Auto 3">
             <p>Auto beschrijving hier.</p>
-            <a href="#" class="buy-now-btn">Koop nu</a>
+            <a href="login.php" class="buy-now-btn">Koop nu</a>
         </div>
     </div>
 </div>
